@@ -10,6 +10,6 @@ This Streamlit app provides an interactive analysis of Massachusetts electric ve
 - The primary data is obtained from the [MOR-EV Rebate Program](https://malegislature.gov/Bills/193/SD3519.pdf?utm_source=chatgpt.com) provided by Massachusetts.
 - Additional insights are informed by industry research from the [Alternative Fuels Data Center](https://afdc.energy.gov/).
 
-### Try the App Live
+# Try the App Live
 You can access the deployed app here: [Massachusetts EV Data Analysis App](https://ev-adoption-in-ma.streamlit.app/)
 
