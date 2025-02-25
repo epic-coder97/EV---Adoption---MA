@@ -101,14 +101,14 @@ for category in vehicle_categories:
     st.pyplot(fig)
     st.write("---")  # Divider between visualizations
 
-st.write("### Key Insights")
-st.write("- Certain counties and ZIP codes show much higher numbers of EV rebates.")
-st.write("- The rebate program appears effective in boosting EV adoption, particularly in urban/suburban areas.")
-st.write("- These insights can help tailor policies and incentives to further promote clean transportation.")
+# st.write("### Key Insights")
+# st.write("- Certain counties and ZIP codes show much higher numbers of EV rebates.")
+# st.write("- The rebate program appears effective in boosting EV adoption, particularly in urban/suburban areas.")
+# st.write("- These insights can help tailor policies and incentives to further promote clean transportation.")
 
-st.write("### Conclusion")
-st.write(
-    "The MOR-EV dataset provides a valuable snapshot of EV distribution in Massachusetts. These insights are critical for policymakers, businesses, and consumers aiming to advance sustainable transportation.")
+# st.write("### Conclusion")
+# st.write(
+#     "The MOR-EV dataset provides a valuable snapshot of EV distribution in Massachusetts. These insights are critical for policymakers, businesses, and consumers aiming to advance sustainable transportation.")
 
 st.write("---")
 st.write("### Predictive Analysis for Missing EV Counts")
